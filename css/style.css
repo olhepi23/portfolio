@@ -767,9 +767,14 @@ h6 {
 .section-heading {
     padding: 0 0 15px 0;
 }
+.heading_title{
+	    font-size: 12px;
+   margin-left: 30px;
+	color: #9c9c9c
+}
 .newfont{
-	font-size: 3rem;
-	line-height: 3rem;
+	font-size: 5rem;
+	line-height: 5rem;
 /*font-family: 'Dancing Script', cursive;*/
 font-family: 'Caveat', cursive;
 }
@@ -1404,7 +1409,7 @@ blockquote {
     cursor: pointer;
 }
 
-/* --------- 6.6 Clients ---------- */
+/* --------- 6.6 Clients/branding ---------- */
 
 #clients a {
     display: block;
@@ -1451,6 +1456,8 @@ blockquote {
     text-align: center;
     display: inline-block;
 }
+/* --------- 6.6 Clients/app ---------- */
+
 
 /* --------- 6.7 Pricing Table ---------- */
 

@@ -116,6 +116,46 @@ a:hover, #header.nav-solid nav a:hover {
 	margin: 0 10px;
 	
 }
+.color3{
+	width: 20px;height: 20px;
+	background: #c1322c;
+	border-radius: 50%;
+	display: inline-block;
+	vertical-align: sub;
+	margin: 0 2px;
+	
+}
+
+.color4{
+	width: 20px;height: 20px;
+	background: #2f2929;
+	border-radius: 50%;
+	display: inline-block;
+	vertical-align: sub;
+	margin: 0 2px;
+	
+}
+
+.color5{
+	width: 20px;height: 20px;
+	background: #ffd300;
+	border-radius: 50%;
+	display: inline-block;
+	vertical-align: sub;
+	margin: 0 2px;
+	
+}
+
+.color6{
+	width: 20px;height: 20px;
+	background: #104bb3;
+	border-radius: 50%;
+	display: inline-block;
+	vertical-align: sub;
+	margin: 0 2px;
+	
+}
+
 .text-center .section-heading h2:after {
     margin:30px auto 25px auto;
 }
